@@ -2,9 +2,9 @@
 
 # Java Script
 
-## Module 7: DOM. Events.
+## Module 8: Events. Libraries
 
-### Homework 7
+### Homework 8
 
 ---
 
